@@ -1,3 +1,3 @@
 # ecommerce_website
- this is a fancy eccommerce website start page layout amde using javascript, css and html.
+ This is a fancy eccommerce website start page layout made using javascript, css and html.
  
